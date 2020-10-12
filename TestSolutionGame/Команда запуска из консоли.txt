@@ -1,0 +1,1 @@
+dotnet TestSolutionGame.dll "C:\Projects\TestSolutionGame\TestSolutionGame\TestSolutionGame\123\map.txt" "C:\Projects\TestSolutionGame\TestSolutionGame\TestSolutionGame\123\3.txt" 5
