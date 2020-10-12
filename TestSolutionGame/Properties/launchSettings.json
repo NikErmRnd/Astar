@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestSolutionGame": {
+      "commandName": "Project",
+      "commandLineArgs": "arg1"
+    }
+  }
+}
